@@ -1,0 +1,32 @@
+@font-face {
+    font-family: bold;
+    src: url(Montserrat-Bold.ttf);
+}
+ @font-face {
+    font-family: thin;
+    src: url(Montserrat-Black.ttf);
+} 
+
+
+@font-face {
+    font-family: italic;
+    src: url(Montserrat-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: regular;
+    src: url(Montserrat-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: bold-italic;
+    src: url(Montserrat-ExtraBoldItalic.ttf);
+}
+
+
+
+@font-face {
+    font-family: think;
+    src: url(Montserrat-Medium.ttf);
+}
